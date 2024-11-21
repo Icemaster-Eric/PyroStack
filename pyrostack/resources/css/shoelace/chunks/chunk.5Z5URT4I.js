@@ -1,0 +1,1 @@
+import{SlDialog}from"./chunk.2CQMTGJA.js";var dialog_default=SlDialog;SlDialog.define("sl-dialog");export{dialog_default};

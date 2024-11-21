@@ -1,0 +1,1 @@
+import{SlAnimation}from"./chunk.UZFQPGXR.js";var animation_default=SlAnimation;SlAnimation.define("sl-animation");export{animation_default};

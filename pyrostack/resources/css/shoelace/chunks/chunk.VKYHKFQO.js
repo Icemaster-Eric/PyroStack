@@ -1,0 +1,1 @@
+import{SlButton}from"./chunk.CII4WDNN.js";var button_default=SlButton;SlButton.define("sl-button");export{button_default};

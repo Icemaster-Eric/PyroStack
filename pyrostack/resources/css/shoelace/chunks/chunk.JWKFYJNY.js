@@ -1,0 +1,1 @@
+import{SlFormatBytes}from"./chunk.OOMLDMV5.js";var format_bytes_default=SlFormatBytes;SlFormatBytes.define("sl-format-bytes");export{format_bytes_default};

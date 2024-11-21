@@ -1,0 +1,1 @@
+import{SlRadioGroup}from"./chunk.LH72D5PL.js";var radio_group_default=SlRadioGroup;SlRadioGroup.define("sl-radio-group");export{radio_group_default};

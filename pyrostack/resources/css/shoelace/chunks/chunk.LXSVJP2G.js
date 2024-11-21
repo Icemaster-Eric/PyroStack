@@ -1,0 +1,1 @@
+import{SlDetails}from"./chunk.BZSDWQ2I.js";var details_default=SlDetails;SlDetails.define("sl-details");export{details_default};

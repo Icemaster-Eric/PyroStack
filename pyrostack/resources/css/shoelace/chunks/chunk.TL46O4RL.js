@@ -1,0 +1,1 @@
+import{SlAnimatedImage}from"./chunk.PTE52OUN.js";var animated_image_default=SlAnimatedImage;SlAnimatedImage.define("sl-animated-image");export{animated_image_default};

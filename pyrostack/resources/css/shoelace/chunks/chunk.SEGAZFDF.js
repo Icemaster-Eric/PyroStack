@@ -1,0 +1,1 @@
+import{SlDropdown}from"./chunk.CM37XOCS.js";var dropdown_default=SlDropdown;SlDropdown.define("sl-dropdown");export{dropdown_default};

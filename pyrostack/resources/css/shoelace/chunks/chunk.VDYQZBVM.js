@@ -1,0 +1,1 @@
+import{SlTag}from"./chunk.FTDILQOA.js";var tag_default=SlTag;SlTag.define("sl-tag");export{tag_default};

@@ -1,0 +1,1 @@
+import{SlAvatar}from"./chunk.FS4CQTA6.js";var avatar_default=SlAvatar;SlAvatar.define("sl-avatar");export{avatar_default};

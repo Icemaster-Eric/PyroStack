@@ -1,0 +1,1 @@
+import{SlSplitPanel}from"./chunk.E4YQ2TFG.js";var split_panel_default=SlSplitPanel;SlSplitPanel.define("sl-split-panel");export{split_panel_default};

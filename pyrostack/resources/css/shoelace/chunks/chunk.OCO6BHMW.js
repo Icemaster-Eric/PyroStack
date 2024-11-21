@@ -1,0 +1,1 @@
+import{SlFormatNumber}from"./chunk.D5EYH242.js";var format_number_default=SlFormatNumber;SlFormatNumber.define("sl-format-number");export{format_number_default};

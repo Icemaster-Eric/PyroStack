@@ -1,0 +1,1 @@
+import{SlRating}from"./chunk.5RUZ4CUG.js";var rating_default=SlRating;SlRating.define("sl-rating");export{rating_default};

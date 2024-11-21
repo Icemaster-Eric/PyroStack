@@ -1,0 +1,1 @@
+import{SlMutationObserver}from"./chunk.PR76NPKP.js";var mutation_observer_default=SlMutationObserver;SlMutationObserver.define("sl-mutation-observer");export{mutation_observer_default};

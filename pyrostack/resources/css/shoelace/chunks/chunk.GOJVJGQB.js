@@ -1,0 +1,1 @@
+import{SlColorPicker}from"./chunk.U5LO3LLY.js";var color_picker_default=SlColorPicker;SlColorPicker.define("sl-color-picker");export{color_picker_default};

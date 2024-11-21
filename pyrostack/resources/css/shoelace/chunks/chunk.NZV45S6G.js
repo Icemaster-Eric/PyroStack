@@ -1,0 +1,1 @@
+import{SlDivider}from"./chunk.WEQADMVU.js";var divider_default=SlDivider;SlDivider.define("sl-divider");export{divider_default};

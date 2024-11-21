@@ -1,0 +1,1 @@
+import{SlTab}from"./chunk.BUM53EJO.js";var tab_default=SlTab;SlTab.define("sl-tab");export{tab_default};

@@ -1,0 +1,1 @@
+import{SlSpinner}from"./chunk.ZIJCDTP4.js";var spinner_default=SlSpinner;SlSpinner.define("sl-spinner");export{spinner_default};

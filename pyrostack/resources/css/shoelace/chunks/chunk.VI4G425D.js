@@ -1,0 +1,1 @@
+import{SlSwitch}from"./chunk.IBOQLJNZ.js";var switch_default=SlSwitch;SlSwitch.define("sl-switch");export{switch_default};

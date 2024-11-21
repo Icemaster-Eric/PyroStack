@@ -1,0 +1,1 @@
+import{SlFormatDate}from"./chunk.SRZS2OES.js";var format_date_default=SlFormatDate;SlFormatDate.define("sl-format-date");export{format_date_default};

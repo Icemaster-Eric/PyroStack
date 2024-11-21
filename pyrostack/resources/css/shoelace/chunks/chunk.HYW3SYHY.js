@@ -1,0 +1,1 @@
+import{SlResizeObserver}from"./chunk.VLCTVMT7.js";var resize_observer_default=SlResizeObserver;SlResizeObserver.define("sl-resize-observer");export{resize_observer_default};

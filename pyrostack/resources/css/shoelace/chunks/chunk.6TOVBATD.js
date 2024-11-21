@@ -1,0 +1,1 @@
+import{SlProgressBar}from"./chunk.5IU3V7OP.js";var progress_bar_default=SlProgressBar;SlProgressBar.define("sl-progress-bar");export{progress_bar_default};

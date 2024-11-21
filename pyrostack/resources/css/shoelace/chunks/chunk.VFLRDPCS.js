@@ -1,0 +1,1 @@
+import{SlRelativeTime}from"./chunk.4DXDLNML.js";var relative_time_default=SlRelativeTime;SlRelativeTime.define("sl-relative-time");export{relative_time_default};

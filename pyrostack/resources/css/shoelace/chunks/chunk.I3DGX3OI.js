@@ -1,0 +1,1 @@
+import{SlSkeleton}from"./chunk.7J7AOEDD.js";var skeleton_default=SlSkeleton;SlSkeleton.define("sl-skeleton");export{skeleton_default};

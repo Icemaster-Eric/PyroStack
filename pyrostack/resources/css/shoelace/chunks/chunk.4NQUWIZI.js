@@ -1,0 +1,1 @@
+import{SlButtonGroup}from"./chunk.C7FT6ZJA.js";var button_group_default=SlButtonGroup;SlButtonGroup.define("sl-button-group");export{button_group_default};

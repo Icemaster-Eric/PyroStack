@@ -1,0 +1,1 @@
+import{SlRange}from"./chunk.XHXA457M.js";var range_default=SlRange;SlRange.define("sl-range");export{range_default};

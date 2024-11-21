@@ -1,0 +1,1 @@
+import{SlMenuLabel}from"./chunk.3V4YBD4E.js";var menu_label_default=SlMenuLabel;SlMenuLabel.define("sl-menu-label");export{menu_label_default};

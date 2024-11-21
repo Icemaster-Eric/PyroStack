@@ -1,0 +1,1 @@
+import{SlTreeItem}from"./chunk.TQPGGLQP.js";var tree_item_default=SlTreeItem;SlTreeItem.define("sl-tree-item");export{tree_item_default};

@@ -1,0 +1,1 @@
+import{SlTooltip}from"./chunk.H5OZ6WJA.js";var tooltip_default=SlTooltip;SlTooltip.define("sl-tooltip");export{tooltip_default};

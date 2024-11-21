@@ -1,0 +1,1 @@
+import{SlCarouselItem}from"./chunk.EFCUKKHT.js";var carousel_item_default=SlCarouselItem;SlCarouselItem.define("sl-carousel-item");export{carousel_item_default};

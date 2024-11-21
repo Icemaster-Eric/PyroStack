@@ -1,0 +1,1 @@
+import{SlTabGroup}from"./chunk.C7AQZRUQ.js";var tab_group_default=SlTabGroup;SlTabGroup.define("sl-tab-group");export{tab_group_default};

@@ -1,0 +1,1 @@
+import{SlBadge}from"./chunk.4PV5JGXO.js";var badge_default=SlBadge;SlBadge.define("sl-badge");export{badge_default};

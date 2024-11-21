@@ -1,0 +1,1 @@
+import{SlCopyButton}from"./chunk.SHOOWCV4.js";var copy_button_default=SlCopyButton;SlCopyButton.define("sl-copy-button");export{copy_button_default};

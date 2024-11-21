@@ -1,0 +1,1 @@
+import{SlIcon}from"./chunk.F24SGBDC.js";var icon_default=SlIcon;SlIcon.define("sl-icon");export{icon_default};

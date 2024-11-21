@@ -1,0 +1,1 @@
+import{SlOption}from"./chunk.GSURKEYW.js";var option_default=SlOption;SlOption.define("sl-option");export{option_default};

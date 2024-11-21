@@ -1,0 +1,1 @@
+import{SlMenuItem}from"./chunk.DLASTOO6.js";var menu_item_default=SlMenuItem;SlMenuItem.define("sl-menu-item");export{menu_item_default};

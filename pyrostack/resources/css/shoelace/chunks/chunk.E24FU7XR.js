@@ -1,0 +1,1 @@
+import{SlQrCode}from"./chunk.ELYLSOJI.js";var qr_code_default=SlQrCode;SlQrCode.define("sl-qr-code");export{qr_code_default};

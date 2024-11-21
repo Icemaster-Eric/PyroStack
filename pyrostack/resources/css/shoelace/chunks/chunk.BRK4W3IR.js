@@ -1,0 +1,1 @@
+import{SlCheckbox}from"./chunk.IH5YPTNJ.js";var checkbox_default=SlCheckbox;SlCheckbox.define("sl-checkbox");export{checkbox_default};

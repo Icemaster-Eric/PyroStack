@@ -1,0 +1,1 @@
+import{SlMenu}from"./chunk.TO3ZPIUT.js";var menu_default=SlMenu;SlMenu.define("sl-menu");export{menu_default};
