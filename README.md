@@ -1,12 +1,12 @@
 # PyroStack
 An elegant and lightweight Python-centric web stack
----
 
 ## Frontend
-- htmx
-- picocss
-- Python integration through small js script (sse/websockets) (?)
+- Htmx
+- Shoelace
+- Vanilla JS
 
 ## Backend
-- FastAPI
+- Starlette
 - Jinja2
+- PyroStack
