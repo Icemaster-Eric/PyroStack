@@ -3,6 +3,7 @@ import os, posixpath
 from lxml import html, etree
 from jinja2 import Environment, FileSystemLoader, select_autoescape, TemplateNotFound
 from jinja2.loaders import split_template_path
+from starlette.requests import Request
 from starlette.responses import HTMLResponse
 
 
@@ -117,4 +118,19 @@ class PyroTemplates: # turn this into generic way to return pyrostack html respo
         template = self.env.get_template(name)
         rendered_html = template.render(context)
 
-        return HTMLResponse(rendered_html)
+        return rendered_html
+
+    def template(self, template_path: str):
+        def decorator(func):
+            async def wrapper(request: Request, *args, **kwargs):
+                context = await func(request, *args, **kwargs)
+                content = self.render(template_path, context)
+
+                # TODO: implement in the future
+                #await request.send_push_promise("pyrostack-resources/js/htmx.min.js")
+
+                return HTMLResponse(content)
+
+            return wrapper
+
+        return decorator

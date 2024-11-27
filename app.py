@@ -2,19 +2,21 @@ import uvicorn
 from starlette.applications import Starlette
 from starlette.routing import Route, Mount
 from starlette.staticfiles import StaticFiles
-from pyrostack import pyro_resources_route, PyroTemplates
+from pyrostack import init_pyro, PyroTemplates
+
 
 templates = PyroTemplates()
 
 
+@templates.template("index.html")
 async def root(request):
-    return templates.render("index.html", {})
+    return {"foo": "hello world"}
 
 
 app = Starlette(routes=[
-    Route("/", root),
-    pyro_resources_route
+    Route("/", root)
 ])
+init_pyro(app)
 
 
 if __name__ == "__main__":
